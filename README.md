@@ -14,11 +14,8 @@ This project has been reorganized to be cleaner and easier to maintain.
 
 ## 🚀 How to Run
 
-1. **Frontend**: Simply open `index.html` in your browser.
-2. **Backend**:
-   - Navigate to the `backend/` folder.
-   - Run `npm install` (first time only).
-   - Run `npm run dev` to start the confirmation email server.
+Preview Link : https://markp2306.github.io/THE-GRAND-VALORA/
+
 
 ## 🛠️ Key Features
 

@@ -14,7 +14,7 @@ This project has been reorganized to be cleaner and easier to maintain.
 
 ## 🚀 How to Run
 
-1. **Frontend**: Simply open `index.html` in your browser.
+Click on this link --->   (https://markp2306.github.io/THE-GRAND-VALORA/)
 
 ## 🛠️ Key Features
 

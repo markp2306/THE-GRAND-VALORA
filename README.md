@@ -19,6 +19,6 @@ Click on this link --->   (https://markp2306.github.io/THE-GRAND-VALORA/)
 ## 🛠️ Key Features
 
 - **Firebase Integration**: Real-time reservation storage.
-- **Nodemailer**: Automated, professionally styled confirmation emails.
+- **EmailJS**: Automated, professionally styled confirmation emails.
 - **Responsive Design**: Optimized for all devices.
 - **Smooth Animations**: High-end luxury feel with scroll reveals.
